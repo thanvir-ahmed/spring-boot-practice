@@ -1,4 +1,4 @@
-package thanvir.ahmed.app;
+package thanvir.ahmed.app.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

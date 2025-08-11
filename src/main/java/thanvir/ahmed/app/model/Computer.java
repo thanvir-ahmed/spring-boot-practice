@@ -1,4 +1,4 @@
-package thanvir.ahmed.app;
+package thanvir.ahmed.app.model;
 
 
 public interface Computer {

@@ -1,6 +1,5 @@
-package thanvir.ahmed.app;
+package thanvir.ahmed.app.model;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component

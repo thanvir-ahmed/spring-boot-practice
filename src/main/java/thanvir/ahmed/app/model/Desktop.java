@@ -1,4 +1,4 @@
-package thanvir.ahmed.app;
+package thanvir.ahmed.app.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Scope;
